@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=5V_Power_Stage.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=5V_Power_Stage.SchDoc|FileName=12V_9V_Power_Stage.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=5V_Power_Stage.SchDoc|FileName=24V_Main_Regulator.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=5V_Power_Stage.SchDoc|FileName=Output_Distribution.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=5V_Power_Stage.SchDoc|FileName=PDU_Top_Level.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=5V_Power_Stage.SchDoc|FileName=Input_Protection.SchDoc|SheetNumber=2
